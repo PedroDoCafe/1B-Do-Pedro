@@ -1,5 +1,5 @@
 body{
-    background: green;
+    background: gray;
 
 }
 
@@ -10,5 +10,5 @@ body{
 p {
     font-size: 20px;
     text-align: center;
-    background: red;
+    background: gray;
 }
