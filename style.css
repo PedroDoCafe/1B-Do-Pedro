@@ -1,5 +1,5 @@
-body{
-    background: gray;
+ody{
+    background: #c9c4c4;
 
 }
 
@@ -8,7 +8,26 @@ body{
 }
 
 p {
-    font-size: 20px;
+    font-size: 40px;
     text-align: center;
-    background: gray;
+    background: #c9c4c4;
 }
+
+ul li::marker{
+content:"";
+
+}
+.lista{
+display: inline-block;
+}
+.largura{
+ width: 180px;
+ float: left;
+ background: red;   
+}
+.largura1{
+    width: 180px;
+    float: left;
+    background: green;   
+   }
+Footer
